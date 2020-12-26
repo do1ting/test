@@ -1,1 +1,2 @@
-# Test
+Write a function that returns all distinct solutions to the 8-queens puzzle.
+Each solution contains a distinct board configuration of the 8-queens' placement, where 'Q' and '.' both indicate a queen and an empty space respectively.
